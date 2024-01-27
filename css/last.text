@@ -1,0 +1,120 @@
+/* .Projects-sec {
+    width: 99%;
+    padding-top: 100px;
+    .sec-name-Prev {
+      width: 100%;
+      @extend %sec-name;
+    }
+    .All-Projects {
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      margin: 0px auto 100px auto;
+      @media screen and (max-width: 900px) {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+  
+      .one-pro {
+        width: 400px;
+        margin: 15px auto 15px auto;
+  
+        .img-pro-1,
+        .img-pro-2,
+        .img-pro-3,
+        .img-pro-4 {
+          background-image: url(/img/pro2.png);
+          @extend %img-pro;
+        }
+        .tools-pro {
+          width: 30%;
+          display: flex;
+          justify-content: center;
+          padding: 10px;
+          .img-tools {
+            height: 10px;
+          }
+        }
+      }
+  
+        .img-pro-2 {
+          background-image: url(/img/codex.png);
+        }
+      }
+      .one-pro {
+        .img-pro-3 {
+          background-image: url(/img/d-m.png);
+        }
+      }
+  
+      .one-pro {
+        .img-pro-4 {
+          background-image: url(/img/phon.png);
+        }
+    }
+  }
+   */
+
+
+
+
+/* 
+
+
+   <div id="Projects" class="Projects-sec">
+   <div class="sec-name-Prev">Prev<span>ious Projects </span></div>
+   <div class="All-Projects">
+       <div class="one-pro">
+            <a href=""><img class="img-pro" src="img/codex.png" alt=""></div></a>
+            <div class="tools-pro">
+               <img  class="img-tools" src="./img/icon-frontend/icons8-html-5-480.png" alt="">
+               <img  class="img-tools" src="./img/icon-frontend/icons8-css-480.png" alt="">
+               <img  class="img-tools" src="./img/icon-frontend/icons8-javascript-480.png" alt="">
+               <img  class="img-tools" src="./img/icon-frontend/icons8-tailwindcss-480(1).png" alt="">
+            </div>
+       </div>
+       <div class="one-pro">
+           <a href="https://github.com/mohamad-fawzy/codex"><div class="img-pro-2"></div></a>
+           <div class="tools-pro">
+              <img src="./img/icon-frontend/icons8-html-5-480.png" alt="">
+              <img src="./img/icon-frontend/icons8-css-480.png" alt="">
+              <img src="./img/icon-frontend/icons8-javascript-480.png" alt="">
+              <img src="./img/icon-frontend/icons8-sass-avatar-480.png" alt="">
+           </div>
+      </div>
+      <div class="one-pro">
+       <a href="https://github.com/mohamad-fawzy/Digital-Marketing-Agency-"><div class="img-pro-3"></div></a>
+       <div class="tools-pro">
+          <img src="./img/icon-frontend/icons8-html-5-480.png" alt="">
+          <img src="./img/icon-frontend/icons8-css-480.png" alt="">
+          <img src="./img/icon-frontend/icons8-javascript-480.png" alt="">
+          <img src="./img/icon-frontend/icons8-tailwindcss-480(1).png" alt="">
+       </div>
+  </div>
+  <div class="All-Projects">
+       <div class="one-pro">
+           <a href="https://github.com/mohamad-fawzy/iphon-13-pro-max"><div class="img-pro-4"></div></a>
+           <div class="tools-pro">
+               <img src="./img/icon-frontend/icons8-html-5-480.png" alt="">
+               <img src="./img/icon-frontend/icons8-css-480.png" alt="">
+               <img src="./img/icon-frontend/icons8-javascript-480.png" alt="">
+               <img src="./img/icon-frontend/icons8-tailwindcss-480(1).png"   alt="">
+           </div>
+
+       </div>
+  </div>
+</div>
+
+
+
+
+*/
+
+
+
+
+
+
+
+
