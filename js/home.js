@@ -18,8 +18,8 @@ let projects = [
       '/img/icon-frontend/nextjs.png']},
   {
     name: "setup",
-    linkImg :"/img/codex.png",
-    link :"#",
+    linkImg :"/img/setup.png",
+    link :"https://myportofolio-three.vercel.app/",
     skils: [
       '/img/icon-frontend/icons8-html-5-480.png',
       '/img/icon-frontend/icons8-sass-avatar-480.png',
@@ -27,7 +27,7 @@ let projects = [
   {
     name: "Product Management System",
     linkImg :"/img/crud.png",
-    link :"#",
+    link :"https://product-management-system-plum.vercel.app/",
     skils: [
       '/img/icon-frontend/icons8-html-5-480.png',
       './img/icon-frontend/icons8-css-480.png',
@@ -35,14 +35,14 @@ let projects = [
   {
     name: "Workspace",
     linkImg :"/img/worksp.png",
-    link :"#",
+    link :"https://github.com/mohamad-fawzy/Workspace",
     skils: [
       '/img/icon-frontend/icons8-html-5-480.png',
       '/img/icon-frontend/icons8-css-480.png',]},
   {
     name: "iphon 13 pro max",
     linkImg :"/img/phon.png",
-    link :"#",
+    link :"https://mohamad-fawzy.github.io/iphon-13-pro-max/",
     skils: [
       '/img/icon-frontend/icons8-html-5-480.png',
       '/img/icon-frontend/icons8-css-480.png',
@@ -50,7 +50,7 @@ let projects = [
   {
     name: "Digital Marketing Agency",
     linkImg :"/img/d-m.png",
-    link :"#",
+    link :"https://digital-marketing-agency-pi.vercel.app/",
     skils: [
       '/img/icon-frontend/icons8-html-5-480.png',
       '/img/icon-frontend/icons8-sass-avatar-480.png',
